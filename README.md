@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrupalVaishnav79
 - 👀 I’m interested in Reactjs and Morden WebDevlopment
-- 🌱 I’m currently learning Asp.Net API eith Reactjs
+- 🌱 I’m currently learning Asp.Net API with Reactjs
 - 📫 How to reach me krupalvaishnav79@gmail.com 
 
 <!---
