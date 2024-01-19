@@ -49,7 +49,7 @@ Implemented responsive design principles, allowing the image gallery to adapt an
 appropriately across different devices and screen sizes.
 
 - Technologies used: [ React.js, Unsplash API, HTML5, CSS3, JavaScript]
-- Link to the project: [(https://github.com/Krupa Vaishnav79/Images/tree/main)]
+- Link to the project: [(https://github.com/KrupalVaishnav79/Images/tree/main)]
 
 ## Contact
 
